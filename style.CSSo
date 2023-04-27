@@ -141,7 +141,7 @@ img{
      }
  
      to {
-        margin-left: 135px;
+        margin-left: 127px;
      }
   }
 .button:hover{
